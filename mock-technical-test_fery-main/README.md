@@ -1,4 +1,4 @@
 # mock-technical-test
 
 
-![image](https://imgur.com/a/GLw0TUh)
+![image](https://i.imgur.com/a/GLw0TUh.png)
