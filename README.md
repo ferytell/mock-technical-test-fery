@@ -1,2 +1,1 @@
-# mock-technical-test-fery
-mock-technical-test 
+# mock-technical-test
