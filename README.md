@@ -14,4 +14,3 @@ array / list dari 1 sampai 100. yg mengeprint angka ini dalam urutan terbalik, d
 
 disini Saya menggunakan bahasa pemrograman Javascript (Vanilla) 
 ![screenshoot](https://github.com/ferytell/mock-technical-test-fery/raw/main/Screenshoot/ss.png)
-https://github.com/ferytell/mock-technical-test-fery/blob/main/Screenshoot/ss.png
