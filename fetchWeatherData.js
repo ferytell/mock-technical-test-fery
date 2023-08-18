@@ -118,7 +118,8 @@ function displayWeatherForecast(weatherList) {
     // Push temperatur mean kalo harinya habis di loop
     if (currentDate !== null) {
       const meanTemperature = currentTempSum / currentTempCount;
-      forecastData.push(`${currentDate}: ${meanTemperature.toFixed(2)}°C`); // Push ke array
+      const convertedTemperature = meanTemperature - 273.15; // Convert dari Kelvin(default) ke Celsius
+      forecastData.push(`${currentDate}: ${convertedTemperature.toFixed(2)}°C`); // Push ke array
     }
 
     console.log("Weather Forecast:");
