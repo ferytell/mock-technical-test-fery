@@ -13,4 +13,5 @@ array / list dari 1 sampai 100. yg mengeprint angka ini dalam urutan terbalik, d
 - Yang ditampilkan hanya 1 suhu per hari
 
 disini Saya menggunakan bahasa pemrograman Javascript (Vanilla) 
-![alt text]([http://url/to/img.png](https://github.com/ferytell/mock-technical-test-fery/blob/raw/Screenshoot/ss.png))
+![screenshoot](https://github.com/ferytell/mock-technical-test-fery/raw/main/Screenshoot/ss.png)
+https://github.com/ferytell/mock-technical-test-fery/blob/main/Screenshoot/ss.png
