@@ -123,9 +123,18 @@ function displayWeatherForecast(weatherList) {
     }
 
     console.log("Weather Forecast:");
-    forecastData.forEach(data => {
-      console.log(data);
-    });
+    //console.log(forecastData.length);
+    if (forecastData.length>5) {                            
+      forecastData.shift();                                       // kita harus membuang satu hari, jika hari yg dihasilkan lebih dari 5 (maks hari yg dihasilkan hanya 6)
+      forecastData.forEach(data => {
+        console.log(data);
+      });
+    } else {
+      forecastData.forEach(data => {
+        console.log(data);
+      });
+    }
+    
   }
 
 
